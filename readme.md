@@ -20,7 +20,7 @@ git clone https://github.com/yourusername/yourrepo.git
 Create a virtual environment and activate it
 ```bash
 python -m venv myenv
-source myenv/Scripts/activate (Windows)
+myenv/Scripts/activate (Windows)
 ```
 Install the required packages
 ```bash
