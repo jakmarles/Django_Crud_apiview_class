@@ -38,5 +38,7 @@ python manage.py runserver
 Test the CRUD operations using a tool such as Postman
 
 Built With
+
 Django - The web framework used
+
 djangorestframework - The library used for creating RESTful APIs
